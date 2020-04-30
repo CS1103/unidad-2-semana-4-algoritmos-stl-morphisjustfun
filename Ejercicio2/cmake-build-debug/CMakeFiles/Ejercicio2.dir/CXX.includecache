@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lordmarcusvane/Downloads/Hackprog/GitHubDi/unidad-2-semana-4-algoritmos-stl-morphisjustfun/Ejercicio2/main.cpp
+iostream
+-
+vector
+-
+
